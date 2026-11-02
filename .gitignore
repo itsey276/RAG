@@ -1,0 +1,10 @@
+# Keep root-level source scripts and documentation; ignore generated data,
+# environments, caches, and other project files.
+/*
+!/.gitignore
+!/*.py
+!/*.md
+!/*.rst
+!/*.txt
+!/*.adoc
+!/*.asciidoc
